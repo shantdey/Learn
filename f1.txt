@@ -1,0 +1,3 @@
+Python fundamentals
+It is a programming language 
+It supports file handling 
